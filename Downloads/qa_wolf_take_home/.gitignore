@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Local artifacts
+.DS_Store
+.env
+articles.json
+npm-debug.log
+package-lock.json
+coverage/
+.playwright/
+wtwr/
